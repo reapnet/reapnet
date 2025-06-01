@@ -11,19 +11,15 @@
 - 🌐 **Network Computing**  
   Learning how devices communicate across networks, including:
   - IP addressing and subnetting
-  - TCP/IP protocol suite (e.g. HTTP, DNS, DHCP)
-  - OSI & TCP/IP models
   - Network configuration and packet analysis using **Wireshark**
   - Network scanning and discovery using **Nmap**
 
 - 🔐 **Cybersecurity Fundamentals**  
   Building a strong foundation in:
   - Common cyber threats (e.g. malware, phishing, MITM attacks)
-  - Ethical hacking principles
   - Vulnerability scanning and exploitation (e.g. using **Metasploit**)
   - Web application testing with **Burp Suite**
-  - Understanding encryption basics (SSL/TLS, hashing, etc.)
-
+ 
 
 
 📬Contact me -  <small>https://t.me/reaprxi<small>,
