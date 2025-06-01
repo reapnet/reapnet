@@ -3,7 +3,7 @@
 *interested in exploring cyber-security and network engineering.*
 
 
-📬 Contact me - (https://t.me/@reaprxi)
+📬 Contact me - https://t.me/@reaprxi
 
 ---
 
