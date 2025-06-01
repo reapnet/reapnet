@@ -1,6 +1,6 @@
 # **Welcome, this is reapnet** 
 
-*"not an ai terminator"*
+~"not an ai terminator"~
 
 *Interested in exploring cyber-security and network engineering.*
 
