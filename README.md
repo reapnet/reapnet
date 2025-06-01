@@ -1,8 +1,8 @@
 # **Welcome, this is reapnet** 
 
-*not an ai*
+*"not an ai"*
 
-*interested in exploring cyber-security and network engineering.*
+*Interested in exploring cyber-security and network engineering.*
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=reapnet&label=Profile%20views&color=0e75b6&style=flat" alt="reapnet" /> </p>
 📬 Contact me - https://t.me/@reaprxi
