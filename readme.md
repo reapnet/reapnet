@@ -4,13 +4,14 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=reapnet&label=Profile%20views&color=0e75b6&style=flat" alt="reapnet" /> </p>
 
 
- 👨‍💻 Currently working on: CS2 Crosshair Website
+ 👨‍💻 Currentl Focus: CS2 Crosshair Website
  
 ---
 
-- 🚀 
+- 🚀 Currently Learning: Cybersecurity Fundamentals & Networks
+- 🛠️ Tools: Nmap · Burp Suite · Metasploit · Wireshark
 - 🔐 
-- 🛠️ Tools: Nmap · Burp Suite · Metasploit
+
 
 
 📬Contact me -  <small>https://t.me/reaprxi<small>,
