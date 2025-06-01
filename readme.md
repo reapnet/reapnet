@@ -1,5 +1,5 @@
-<h1 align="center">Welcome, this is reapnet.</h1>
-<h3 align="center">interested in exploring cyber-security and network computing.</h3>
+<h1 align="center">Welcome, this is reapnet</h1>
+<h3 align="center">Interested in exploring cyber-security and network computing.</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=reapnet&label=Profile%20views&color=0e75b6&style=flat" alt="reapnet" /> </p>
 
 ~"not an ai terminator"~
