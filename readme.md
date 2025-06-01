@@ -2,7 +2,6 @@
 <h3 align="center">Interested in exploring cyber-security and network computing.</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=reapnet&label=Profile%20views&color=0e75b6&style=flat" alt="reapnet" /> </p>
 
-~"not an ai terminator"~
 
 *Interested in exploring cyber-security and network engineering.*
 
@@ -23,3 +22,7 @@
 ### 📊 GitHub Stats
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=reapnet&show_icons=true&theme=tokyonight)
+
+
+
+~not an ai terminator~
