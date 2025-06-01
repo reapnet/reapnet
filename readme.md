@@ -4,7 +4,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=reapnet&label=Profile%20views&color=0e75b6&style=flat" alt="reapnet" /> </p>
 
 
- 👨‍💻 Currentl Focus: CS2 Crosshair Website
+ 👨‍💻 Current Focus: CS2 Crosshair Website
  
 ---
 
