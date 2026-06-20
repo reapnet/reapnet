@@ -42,4 +42,4 @@ can sink in despair.
 
 
 
-~not an ai terminator~
+
