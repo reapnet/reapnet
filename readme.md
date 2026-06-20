@@ -8,19 +8,18 @@
  
 ---
 
-- 🌐 **Network Computing**  
-  Learning how devices communicate across networks, including:
-  - IP addressing and subnetting
-  - Network configuration and packet analysis using **Wireshark**
-  - Network scanning and discovery using **Nmap**
+Laugh.
+Weigh yourself with hope.
+For this world is but a scale.
 
-- 🔐 **Cybersecurity Fundamentals**  
-  Building a strong foundation in:
-  - Common cyber threats (e.g. malware, phishing, MITM attacks)
-  - Vulnerability scanning and exploitation (e.g. using **Metasploit**)
-  - Web application testing with **Burp Suite**
- 
+When one side is laden with hope,
+the other must tip into despair.
+Hence ...
 
+You must never despair.
+Wrap yourself in hope as you've never felt before.
+So that everything, other than us ...
+can sink in despair.
 
 📬Contact me -  <small>https://t.me/reaprxi<small>,
 
