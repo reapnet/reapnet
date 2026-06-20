@@ -1,10 +1,10 @@
-<h1 align="center"><b>Hey, this is HB!</b></h1>
-<h3 align="center"><b>Interested in exploring cyber-security and network computing.</b></h3>
+<h1 align="center"><b>Welcome, I am Heershi!</b></h1>
+<h3 align="center"><b>Computer Science Student & Co-Founder at Zernul.</b></h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=reapnet&label=Profile%20views&color=0e75b6&style=flat" alt="reapnet" /> </p>
 
 
- 👨‍💻 Current Focus: Unity Based Pirate Game 
+ 👨‍💻 Current Focus: Web Design with AI & Marketing 
  
 ---
 
