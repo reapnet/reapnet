@@ -8,25 +8,9 @@
  
 ---
 
-Laugh.
+Find the website:
 
-Weigh yourself with hope.
-
-For this world is but a scale.
-
-When one side is laden with hope,
-
-the other must tip into despair.
-
-Hence ...
-
-You must never despair.
-
-Wrap yourself in hope as you've never felt before.
-
-So that everything, other than us ...
-
-can sink in despair.
+https://zernul.com/
 
 
 
