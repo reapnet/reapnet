@@ -1,7 +1,7 @@
 <h1 align="center"><b>Welcome, I am Heershi!</b></h1>
 <h3 align="center"><b>Computer Science Student & Co-Founder at Zernul.</b></h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=reapnet&label=Profile%20views&color=0e75b6&style=flat" alt="reapnet" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=HeershiB&label=Profile%20views&color=0e75b6&style=flat" alt="reapnet" /> </p>
 
 
  👨‍💻 Current Focus: Web Design with AI & Marketing 
@@ -28,7 +28,6 @@ So that everything, other than us ...
 
 can sink in despair.
 
-📬Contact me -  <small>https://t.me/reaprxi<small>,
 
 
 <h3 align="left">Languages and Tools:</h3>
