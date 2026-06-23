@@ -21,7 +21,7 @@ https://zernul.com/
 
 ### 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=reapnet&show_icons=true&theme=tokyonight)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=HeershiB&show_icons=true&theme=tokyonight)
 
 
 
